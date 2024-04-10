@@ -1,2 +1,2 @@
 # caniaccombo-potholes
-potholes and rats? 
+Both data comes from the City of Chicago through the 311 service. The pothole requests dataset started on January 1st, 2011, was updated daily until March 7, 2019. The patched potholes is a map created on Jan 15th, 2015 showing all potholes patched within the last 7 days and is updated daily based on 311 records. It is still being updated with the last update being April 9th. 
